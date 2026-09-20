@@ -1,0 +1,339 @@
+{
+  "brand": {
+    "name": "Aria",
+    "tagline": "Independent music for the space between",
+    "account": "Aria for iPhone",
+    "owner": "Aria Collective"
+  },
+  "artists": [
+    {
+      "id": "lumen-fields",
+      "name": "Lumen Fields",
+      "genre": "Ambient / Electronic",
+      "city": "Portland",
+      "bio": "Two synths, one tape loop and a lot of Pacific fog. Lumen Fields build slow-moving electronic pieces that feel less like songs and more like weather systems arriving over the coast.",
+      "albums": ["tidal-motions", "glass-hour"]
+    },
+    {
+      "id": "mireille",
+      "name": "Mireille",
+      "genre": "Neoclassical",
+      "city": "Antwerp",
+      "bio": "Mireille writes small, careful piano pieces in an attic studio above a canal. Her records are quiet, deliberate and largely recorded in single takes at dawn.",
+      "albums": ["vestige"]
+    },
+    {
+      "id": "cosmonaut-echo",
+      "name": "Cosmonaut Echo",
+      "genre": "Synthwave",
+      "city": "Berlin",
+      "bio": "A one-woman mission control in Kreuzberg. Cosmonaut Echo makes late-night synthwave with the air pressure of a spacecraft about to leave orbit.",
+      "albums": ["pale-blue-night"]
+    },
+    {
+      "id": "halftone",
+      "name": "Halftone",
+      "genre": "Lo-Fi",
+      "city": "Copenhagen",
+      "bio": "Halftone press an old Wurlitzer into service over dusty drum machines. Home-recorded, slightly off tape, and made for coffee that is already cold.",
+      "albums": ["sunday-paper", "slow-canyons"]
+    },
+    {
+      "id": "odessa-bloom",
+      "name": "Odessa Bloom",
+      "genre": "Downtempo",
+      "city": "Lisbon",
+      "bio": "Odessa Bloom mixes field recordings of the Tagus river with drifting chord beds. Her music measures time in the movement of ferries.",
+      "albums": ["ferry-light"]
+    },
+    {
+      "id": "paper-foxes",
+      "name": "The Paper Foxes",
+      "genre": "Indie Folk",
+      "city": "Galway",
+      "bio": "Two siblings, a borrowed banjo and harmonies learned in car parks. The Paper Foxes make weathered folk that sounds older than it is.",
+      "albums": ["borderlands"]
+    },
+    {
+      "id": "shogun-mono",
+      "name": "Shōgun Mono",
+      "genre": "Ambient Electronica",
+      "city": "Kyoto",
+      "bio": "Shōgun Mono layers bamboo flute samples over field recordings of rain on temple roofs. Headphone music, best at dusk.",
+      "albums": ["kite-season"]
+    },
+    {
+      "id": "violet-meridian",
+      "name": "Violet Meridian",
+      "genre": "Dream Pop",
+      "city": "Reykjavík",
+      "bio": "Slow, reverb-drenched songs from the edge of the map. Violet Meridian records guitar and voice and lets the Icelandic winter do the rest.",
+      "albums": ["pale-fire"]
+    },
+    {
+      "id": "backyard-circuit",
+      "name": "Backyard Circuit",
+      "genre": "Indie Electronic",
+      "city": "Austin",
+      "bio": "Backyard Circuit build small electronic anthems from garage recordings and cheap sequencers. Maximal melody, minimal gear.",
+      "albums": ["kaleidoscope", "circuitry"]
+    }
+  ],
+  "albums": [
+    {
+      "id": "tidal-motions",
+      "artistId": "lumen-fields",
+      "name": "Tidal Motions",
+      "year": 2025,
+      "kind": "album",
+      "genre": "Ambient",
+      "accent": ["#1E3A5F", "#2E7D8C", "#7FD1C7"],
+      "duration": 592,
+      "tracks": [
+        { "id": "tm-01", "name": "Warm Front Arriving", "duration": 214 },
+        { "id": "tm-02", "name": "Low Pressure / High Tide", "duration": 182 },
+        { "id": "tm-03", "name": "The Lighthouse Hour", "duration": 196 }
+      ]
+    },
+    {
+      "id": "glass-hour",
+      "artistId": "lumen-fields",
+      "name": "Glass Hour",
+      "year": 2022,
+      "kind": "album",
+      "genre": "Ambient Electronic",
+      "accent": ["#233C4A", "#4E6E81", "#C7B8A2"],
+      "duration": 628,
+      "tracks": [
+        { "id": "gh-01", "name": "Still Light", "duration": 248 },
+        { "id": "gh-02", "name": "Corner of a Cold Window", "duration": 195 },
+        { "id": "gh-03", "name": "Hours at Half Speed", "duration": 185 }
+      ]
+    },
+    {
+      "id": "vestige",
+      "artistId": "mireille",
+      "name": "Vestige",
+      "year": 2024,
+      "kind": "album",
+      "genre": "Neoclassical",
+      "accent": ["#3E2C3F", "#8A6A7B", "#D8C9C3"],
+      "duration": 680,
+      "tracks": [
+        { "id": "vs-01", "name": "What the Canal Kept", "duration": 214 },
+        { "id": "vs-02", "name": "Vestige", "duration": 186 },
+        { "id": "vs-03", "name": "Paper Boats", "duration": 152 },
+        { "id": "vs-04", "name": "First Light, Sunday", "duration": 128 }
+      ]
+    },
+    {
+      "id": "pale-blue-night",
+      "artistId": "cosmonaut-echo",
+      "name": "Pale Blue Night",
+      "year": 2023,
+      "kind": "album",
+      "genre": "Synthwave",
+      "accent": ["#1A1040", "#5B4BC1", "#FF7AD9"],
+      "duration": 712,
+      "tracks": [
+        { "id": "pb-01", "name": "Deorbit", "duration": 192 },
+        { "id": "pb-02", "name": "Neon Rendezvous", "duration": 178 },
+        { "id": "pb-03", "name": "Zero G Slowdance", "duration": 204 },
+        { "id": "pb-04", "name": "Signal Lost", "duration": 138 }
+      ]
+    },
+    {
+      "id": "sunday-paper",
+      "artistId": "halftone",
+      "name": "Sunday Paper",
+      "year": 2024,
+      "kind": "album",
+      "genre": "Lo-Fi",
+      "accent": ["#3A3226", "#B08D57", "#E8D5A6"],
+      "duration": 560,
+      "tracks": [
+        { "id": "sp-01", "name": "Cold Coffee", "duration": 158 },
+        { "id": "sp-02", "name": "Crossword Slump", "duration": 144 },
+        { "id": "sp-03", "name": "Rain on the Parquet", "duration": 132 },
+        { "id": "sp-04", "name": "Second Pour", "duration": 126 }
+      ]
+    },
+    {
+      "id": "slow-canyons",
+      "artistId": "halftone",
+      "name": "Slow Canyons",
+      "year": 2021,
+      "kind": "album",
+      "genre": "Lo-Fi",
+      "accent": ["#4A3D34", "#7E6B54", "#D9B98C"],
+      "duration": 612,
+      "tracks": [
+        { "id": "sc-01", "name": "Dust Road", "duration": 172 },
+        { "id": "sc-02", "name": "Mesquite", "duration": 158 },
+        { "id": "sc-03", "name": "Scorpion Hour", "duration": 146 },
+        { "id": "sc-04", "name": "Canyon Bed", "duration": 136 }
+      ]
+    },
+    {
+      "id": "ferry-light",
+      "artistId": "odessa-bloom",
+      "name": "Ferry Light",
+      "year": 2025,
+      "kind": "album",
+      "genre": "Downtempo",
+      "accent": ["#0F4C5C", "#44A6A0", "#F2C14E"],
+      "duration": 644,
+      "tracks": [
+        { "id": "fl-01", "name": "Crossing at Dusk", "duration": 204 },
+        { "id": "fl-02", "name": "Fluxo", "duration": 168 },
+        { "id": "fl-03", "name": "Buoy Line", "duration": 142 },
+        { "id": "fl-04", "name": "Return Crossing", "duration": 130 }
+      ]
+    },
+    {
+      "id": "borderlands",
+      "artistId": "paper-foxes",
+      "name": "Borderlands",
+      "year": 2022,
+      "kind": "album",
+      "genre": "Indie Folk",
+      "accent": ["#5A4632", "#9C7B4E", "#E3D5B8"],
+      "duration": 702,
+      "tracks": [
+        { "id": "bl-01", "name": "Field Theory", "duration": 208 },
+        { "id": "bl-02", "name": "Stone Walls", "duration": 184 },
+        { "id": "bl-03", "name": "The Long Fence", "duration": 176 },
+        { "id": "bl-04", "name": "Homecoming Light", "duration": 134 }
+      ]
+    },
+    {
+      "id": "kite-season",
+      "artistId": "shogun-mono",
+      "name": "Kite Season",
+      "year": 2023,
+      "kind": "album",
+      "genre": "Ambient Electronica",
+      "accent": ["#2B3A42", "#5E7E8C", "#E5B8A4"],
+      "duration": 596,
+      "tracks": [
+        { "id": "ks-01", "name": "Made in the Wind", "duration": 192 },
+        { "id": "ks-02", "name": "Paper Lanterns", "duration": 168 },
+        { "id": "ks-03", "name": "Rain on the Roof", "duration": 124 },
+        { "id": "ks-04", "name": "The Kite String", "duration": 112 }
+      ]
+    },
+    {
+      "id": "pale-fire",
+      "artistId": "violet-meridian",
+      "name": "Pale Fire",
+      "year": 2024,
+      "kind": "album",
+      "genre": "Dream Pop",
+      "accent": ["#1B1B3C", "#7B5B8C", "#FFB3C6"],
+      "duration": 648,
+      "tracks": [
+        { "id": "pf-01", "name": "Pale Fire", "duration": 216 },
+        { "id": "pf-02", "name": "Aurora Static", "duration": 174 },
+        { "id": "pf-03", "name": "Meridian", "duration": 142 },
+        { "id": "pf-04", "name": "Afterglow Hour", "duration": 116 }
+      ]
+    },
+    {
+      "id": "kaleidoscope",
+      "artistId": "backyard-circuit",
+      "name": "Kaleidoscope",
+      "year": 2025,
+      "kind": "album",
+      "genre": "Indie Electronic",
+      "accent": ["#1F2A44", "#7C4CAF", "#35D0BA"],
+      "duration": 668,
+      "tracks": [
+        { "id": "kd-01", "name": "Primary Colours", "duration": 196 },
+        { "id": "kd-02", "name": "Chromatic", "duration": 172 },
+        { "id": "kd-03", "name": "Mirror Ball Science", "duration": 158 },
+        { "id": "kd-04", "name": "Shutter Speed", "duration": 142 }
+      ]
+    },
+    {
+      "id": "circuitry",
+      "artistId": "backyard-circuit",
+      "name": "Circuitry",
+      "year": 2022,
+      "kind": "album",
+      "genre": "Indie Electronic",
+      "accent": ["#24303E", "#596B7C", "#FF9B6A"],
+      "duration": 604,
+      "tracks": [
+        { "id": "ct-01", "name": "Trace Lines", "duration": 184 },
+        { "id": "ct-02", "name": "Soldered Sunset", "duration": 166 },
+        { "id": "ct-03", "name": "Resistor Romance", "duration": 142 },
+        { "id": "ct-04", "name": "Open Circuit", "duration": 112 }
+      ]
+    }
+  ],
+  "playlists": [
+    {
+      "id": "morning-currents",
+      "name": "Morning Currents",
+      "subtitle": "Aria Curators",
+      "description": "Twenty-two quiet pieces to drift into the day with.",
+      "kind": "currents",
+      "accent": ["#0F4C5C", "#3E8E8A", "#9AC8C2"],
+      "trackIds": ["fl-01", "tm-01", "fl-02", "gh-01"]
+    },
+    {
+      "id": "deep-focus",
+      "name": "Deep Focus",
+      "subtitle": "Aria Curators",
+      "description": "Long-form pieces with no vocals and nowhere to go.",
+      "kind": "focus",
+      "accent": ["#1E3A5F", "#2A5D8C", "#6FB1D8"],
+      "trackIds": ["tm-02", "vs-02", "gh-02", "ks-02", "vs-01"]
+    },
+    {
+      "id": "night-drive",
+      "name": "Night Drive",
+      "subtitle": "Aria Curators",
+      "description": "Neon, pavement and the late FM dial.",
+      "kind": "drive",
+      "accent": ["#1A1040", "#5B4BC1", "#FF7AD9"],
+      "trackIds": ["pb-01", "pb-02", "pb-03", "ct-01", "kd-02"]
+    },
+    {
+      "id": "far-field",
+      "name": "Far Field",
+      "subtitle": "Aria Curators",
+      "description": "Folk songs from the edge of the map.",
+      "kind": "wander",
+      "accent": ["#5A4632", "#9C7B4E", "#E3D5B8"],
+      "trackIds": ["bl-01", "bl-02", "bl-03", "bl-04"]
+    },
+    {
+      "id": "sunday-light",
+      "name": "Sunday Light",
+      "subtitle": "Aria Curators",
+      "description": "Soft keys, dust motes and a second cup.",
+      "kind": "sunday",
+      "accent": ["#3A3226", "#B08D57", "#E8D5A6"],
+      "trackIds": ["sp-01", "sp-02", "fl-03", "vs-03", "sp-04"]
+    },
+    {
+      "id": "liminal",
+      "name": "Liminal",
+      "subtitle": "Aria Curators",
+      "description": "For doorways, airports and in-between hours.",
+      "kind": "liminal",
+      "accent": ["#2B3A42", "#5E7E8C", "#E5B8A4"],
+      "trackIds": ["ks-03", "gh-03", "tm-03", "ks-04", "pf-03"]
+    },
+    {
+      "id": "midnight-practice",
+      "name": "Midnight Practice",
+      "subtitle": "Aria Originals",
+      "description": "New and unreleased, heard first here.",
+      "kind": "originals",
+      "accent": ["#1F2A44", "#7C4CAF", "#35D0BA"],
+      "trackIds": ["kd-01", "kd-03", "kd-04", "pf-01", "ct-03"]
+    }
+  ]
+}

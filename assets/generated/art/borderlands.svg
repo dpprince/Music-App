@@ -1,0 +1,10 @@
+
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6e5c4b"/><stop offset="1" stop-color="#463727"/></linearGradient><linearGradient id="w" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#bfa98c"/><stop offset="1" stop-color="#705938"/></linearGradient></defs>
+  <rect width="1200" height="1200" fill="url(#b)"/>
+  <path d="M 0 1200 L 1200 1200 L 0 294.44597700145096 Z" fill="url(#w)"/>
+  <line x1="0" y1="1050" x2="1200" y2="1050" stroke="#9c9084" stroke-width="2.5" opacity="0.4"/>
+  <line x1="140" y1="1050" x2="1060" y2="1050" stroke="#d2c4af" stroke-width="2" opacity="0.5"/>
+  <text x="600" y="1134" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="60" fill="#fff">Borderlands</text>
+  <text x="600" y="1172" text-anchor="middle" font-family="Segoe UI, sans-serif" font-weight="600" font-size="14" letter-spacing="9" fill="#fff" opacity="0.55">THE PAPER FOXES</text>
+</svg>

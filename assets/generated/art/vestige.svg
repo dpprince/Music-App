@@ -1,0 +1,12 @@
+
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#746775"/><stop offset="1" stop-color="#3a293b"/></linearGradient><radialGradient id="s" cx="0.5" cy="0.75" r="0.75"><stop offset="0" stop-color="#FFE9C7"/><stop offset="0.7" stop-color="#b99174"/><stop offset="1" stop-color="#68505c"/></radialGradient></defs>
+  <rect width="1200" height="1200" fill="url(#b)"/>
+  <path d="M 286.28677470609546 998.5141518712044 L 286.28677470609546 613.7132252939045 A 313.71322529390454 313.71322529390454 0 0 1 913.7132252939045 613.7132252939045 L 913.7132252939045 998.5141518712044 Z" fill="none" stroke="#b9a6b0" stroke-width="3" opacity="0.8"/>
+  <path d="M 330.28677470609546 998.5141518712044 L 330.28677470609546 613.7132252939045 A 269.71322529390454 269.71322529390454 0 0 1 869.7132252939045 613.7132252939045 L 869.7132252939045 998.5141518712044 Z" fill="url(#s)" opacity="0.96"/>
+  <circle cx="600" cy="270" r="30" fill="#3e38c4"/>
+  <ellipse cx="600" cy="1024.5141518712044" rx="194.5021996822208" ry="4" fill="#5a4550" opacity="0.4"/>
+  <text x="600" y="180" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="64" fill="#fff">Vestige</text>
+  <text x="600" y="226" text-anchor="middle" font-family="Segoe UI, sans-serif" font-weight="600" font-size="15" letter-spacing="8" fill="#fff" opacity="0.55">MIREILLE</text>
+  <text x="600" y="1118.5141518712044" text-anchor="middle" font-family="Cambria, serif" font-size="26" fill="#fff" opacity="0.4">2024</text>
+</svg>

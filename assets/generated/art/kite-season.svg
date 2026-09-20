@@ -1,0 +1,9 @@
+
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2B3A42"/><stop offset="1" stop-color="#4d5a60"/></linearGradient><linearGradient id="tx" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#5c53db"/></linearGradient></defs>
+  <rect width="1200" height="1200" fill="url(#b)"/>
+  <circle cx="600" cy="640" r="90" fill="none" stroke="#c39c8b" stroke-width="5.391482192790136" opacity="0.55"/><circle cx="600" cy="640" r="213.41085977386683" fill="none" stroke="#869ea9" stroke-width="5.977561442647129" opacity="0.45000000000000007"/><circle cx="600" cy="640" r="219.41085977386683" fill="none" stroke="#6b757b" stroke-width="1.4" opacity="0.315"/><circle cx="600" cy="640" r="363.5537584964186" fill="none" stroke="#c39c8b" stroke-width="4.514242427190766" opacity="0.35000000000000003"/><circle cx="600" cy="640" r="471.5116847679019" fill="none" stroke="#869ea9" stroke-width="3.1551213779021055" opacity="0.25"/><circle cx="600" cy="640" r="477.5116847679019" fill="none" stroke="#6b757b" stroke-width="1.4" opacity="0.175"/><circle cx="600" cy="640" r="70.29340772656724" fill="#957dc4" opacity="0.9"/>
+  <circle cx="600" cy="640" r="560" fill="none" stroke="#eac6b6" stroke-width="1" opacity="0.25" stroke-dasharray="2 14"/>
+  <text x="600" y="1104" text-anchor="middle" font-family="Georgia, serif" font-size="70" fill="#fff">Kite Season</text>
+  <text x="600" y="1150" text-anchor="middle" font-family="Segoe UI, sans-serif" font-weight="600" font-size="16" letter-spacing="8" fill="#fff" opacity="0.55">SHŌGUN MONO</text>
+</svg>

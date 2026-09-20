@@ -1,0 +1,9 @@
+
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#29231b"/><stop offset="1" stop-color="#3A3226"/></linearGradient></defs>
+  <rect width="1200" height="1200" fill="url(#b)"/>
+  <rect x="150" y="150" width="325.88735924102366" height="900" fill="#d8c6ab" transform="rotate(-0.21079068654216826 150 600)"/><rect x="511.88735924102366" y="150" width="325.88735924102366" height="900" fill="#b4935f" transform="rotate(0.3245275979861617 511.88735924102366 600)"/><rect x="847.7747184820473" y="150" width="325.88735924102366" height="900" fill="#725c39" transform="rotate(-2.186100835679099 847.7747184820473 600)"/>
+  <line x1="150" y1="972" x2="1050" y2="972" stroke="#e7ddcd" stroke-width="2" opacity="0.5"/>
+  <text x="600" y="1120" text-anchor="middle" font-family="Georgia, serif" font-size="56" fill="#fff" opacity="0.92">Sunday Paper</text>
+  <text x="600" y="1164" text-anchor="middle" font-family="Segoe UI, sans-serif" font-weight="600" font-size="14" letter-spacing="9" fill="#fff" opacity="0.5">HALFTONE</text>
+</svg>

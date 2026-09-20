@@ -1,0 +1,9 @@
+
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0F4C5C"/><stop offset="1" stop-color="#57afaa"/></linearGradient></defs>
+  <rect width="1200" height="1200" fill="url(#b)"/>
+  <circle cx="151.54873985403626" cy="244.61074709175654" r="16" fill="#6156b8"/>
+  <path d="M 0 620 C 336.00000000000006 573.9993256619197 744 626.0006743380803 1200 636.0006743380803 L 1200 840 L 0 840 Z" fill="#78bfbb" opacity="0.92"/><path d="M 0 690.1054218388654 C 336.00000000000006 596.0648436793429 744 744.1459999983879 1200 754.1459999983879 L 1200 910.1054218388654 L 0 910.1054218388654 Z" fill="#419e98" opacity="0.8200000000000001"/><path d="M 0 757.6963684408443 C 336.00000000000006 682.657697381758 744 792.7350394999305 1200 802.7350394999305 L 1200 977.6963684408443 L 0 977.6963684408443 Z" fill="#f4ca69" opacity="0.72"/><path d="M 0 816.1623354745853 C 336.00000000000006 754.7130607495611 744 837.6116101996096 1200 847.6116101996096 L 1200 1036.1623354745852 L 0 1036.1623354745852 Z" fill="#8ab17f" opacity="0.62"/>
+  <text x="1120" y="1134" text-anchor="end" font-family="Georgia, serif" font-style="italic" font-size="72" fill="#fff">Ferry Light</text>
+  <text x="1118" y="1172" text-anchor="end" font-family="Segoe UI, sans-serif" font-weight="600" font-size="16" letter-spacing="7" fill="#fff" opacity="0.6">ODESSA BLOOM</text>
+</svg>

@@ -1,0 +1,23 @@
+
+> radar@1.0.0 start
+> expo start
+
+Starting project at C:\Users\vombol1\radar
+Using src/app as the root directory for Expo Router.
+React Compiler enabled
+Starting Metro Bundler
+
+Waiting on http://localhost:8081
+
+Logs for your project will appear below.
+λ Bundled 43506ms node_modules\expo\node_modules\@expo\cli\node_modules\@expo\router-server\node\render.js (1568 modules)
+"shadow*" style props are deprecated. Use "boxShadow".
+Web Bundled 44754ms node_modules\expo-router\entry.js (1534 modules)
+Web Bundled 18648ms node_modules\expo-router\entry.js (1534 modules)
+Web  INFO  %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+Web  LOG  Running application "main" with appParams:
+ {"hydrate": undefined, "rootTag": "#root"} 
+Development-level warnings: ON.
+Performance optimizations: OFF.
+Web  WARN  "shadow*" style props are deprecated. Use "boxShadow".
+Web  WARN  Image: style.resizeMode is deprecated. Please use props.resizeMode.
